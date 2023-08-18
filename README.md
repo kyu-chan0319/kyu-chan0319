@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 🍎
+
 <!--
 **kyu-chan0319/kyu-chan0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
