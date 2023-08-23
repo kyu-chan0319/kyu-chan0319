@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-## 🍎
 
-### check this → https://honzaap.github.io/GithubCity/?name=kyu-chan0319&year=2023
+### 👀 → https://honzaap.github.io/GithubCity/?name=kyu-chan0319&year=2023
 
 <!--
 **kyu-chan0319/kyu-chan0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
